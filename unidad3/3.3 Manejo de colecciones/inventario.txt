@@ -1,0 +1,25 @@
+1,mouse,50,18.0
+2,teclado apple,36,67.0
+3,monitor 24',20,150.0
+4,ratón gaming,15,55.0
+5,auriculares bluetooth,22,90.0
+6,webcam HD,10,40.0
+7,impresora multifunción,8,120.0
+8,almohadilla de muñeca,25,12.0
+9,disco duro externo 1TB,14,75.0
+10,unidad flash 64GB,30,25.0
+11,sillas ergonómicas,12,200.0
+12,soporte para monitor,18,35.0
+13,teclado mecánico,20,80.0
+14,ratón inalámbrico,28,22.0
+15,hub USB 4 puertos,27,15.0
+16,ventilador de escritorio,12,30.0
+17,cámara de seguridad,8,120.0
+18,mochila para laptop,25,45.0
+19,adaptador de red,16,10.0
+20,altavoces bluetooth,11,60.0
+21,base refrigerante para laptop,14,40.0
+22,tablet 10',13,150.0
+23,papel fotográfico A4,19,20.0
+24,ratón óptico,31,10.0
+25,teclado ergonómico,17,70.0

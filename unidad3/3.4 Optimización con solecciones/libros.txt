@@ -1,0 +1,22 @@
+hola mundo,robert nura,programacion,4587
+padre rico padre pobre,mark sukida,finanzas,54564465456
+Padre Rico Padre Pobre,Robert Kiyosaki,Finanzas,9780071816310
+Cien Años de Soledad,Gabriel García Márquez,Literatura,9780060883287
+1984,George Orwell,Distopía,9780452284234
+El Alquimista,Paulo Coelho,Ficción,9780061122415
+La Sombra del Viento,Carlos Ruiz Zafón,Misterio,9780143038092
+El Hobbit,J.R.R. Tolkien,Fantasía,9780618002218
+Orgullo y Prejuicio,Jane Austen,Romance,9780141439518
+Los Juegos del Hambre,Suzanne Collins,Ciencia Ficción,9780439023528
+El Código Da Vinci,Dan Brown,Thriller,9780385504208
+El Arte de la Guerra,Sun Tzu,Estrategia,9781594200070
+Cómo Ganar Amigos e Influir sobre las Personas,Dale Carnegie,Autoayuda,9780671027634
+Sapiens: De Animales a Dioses,Yuval Noah Harari,Historia,9780062316110
+El Poder del Ahora,Eckhart Tolle,Espiritualidad,9781577311522
+La Casa de los Espíritus,Isabel Allende,Realismo Mágico,9780679745120
+El Nombre del Viento,Patrick Rothfuss,Fantasía,9780756403784
+Matar a un Ruiseñor,Harper Lee,Clásico,9780061120084
+Los Hombres que no Amaban a las Mujeres,Stieg Larsson,Thriller,9780307455544
+El Gran Gatsby,F. Scott Fitzgerald,Literatura,9780743273565
+La Chica del Tren,Paula Hawkins,Suspense,9781455555383
+Los Pilares de la Tierra,Ken Follett,Histórico,9780452284241
